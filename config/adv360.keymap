@@ -50,8 +50,8 @@
             display-name = "Fn";
             bindings = <
 &kp F1  &kp F2  &kp F3                  &kp F4             &kp F5                    &kp F6     &tog 1                                                     &mo 3   &kp F7                &kp F8                 &kp F9          &kp F10           &kp F11  &kp F12
-&trans  &trans  &kp LA(LC(LEFT_ARROW))  &kp LA(LC(RIGHT))  &kp PLUS                  &kp GRAVE  &kp LG(LEFT_BRACKET)                                       &none   &kp LEFT_BRACKET      &kp RIGHT_BRACKET      &kp LEFT_BRACE  &kp RIGHT_BRACE   &trans   &trans
-&trans  &trans  &kp LA(LC(EQUAL))       &kp LA(LC(X))      &kp MINUS                 &kp TILDE  &kp LG(RIGHT_BRACKET)  &trans  &trans      &trans  &trans  &none   &kp LEFT              &kp DOWN               &kp UP_ARROW    &kp RIGHT         &trans   &trans
+&trans  &trans  &kp LA(LC(LEFT_ARROW))  &kp LA(LC(RIGHT))  &kp PLUS                  &kp GRAVE  &kp LG(RIGHT_BRACKET)                                      &none   &kp LEFT_BRACKET      &kp RIGHT_BRACKET      &kp LEFT_BRACE  &kp RIGHT_BRACE   &trans   &trans
+&trans  &trans  &kp LA(LC(EQUAL))       &kp LA(LC(X))      &kp MINUS                 &kp TILDE  &kp LG(LEFT_BRACKET)   &trans  &trans      &trans  &trans  &none   &kp LEFT              &kp DOWN               &kp UP_ARROW    &kp RIGHT         &trans   &trans
 &trans  &trans  &kp LA(LC(MINUS))       &kp LA(LC(C))      &kp LS(LC(LG(NUMBER_4)))  &kp PIPE                                  &trans      &trans                  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp LESS_THAN   &kp GREATER_THAN  &trans   &trans
 &trans  &trans  &trans                  &trans             &trans                               &trans                 &trans  &trans      &trans  &trans  &trans                        &trans                 &trans          &trans            &trans   &trans
             >;
