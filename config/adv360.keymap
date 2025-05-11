@@ -18,6 +18,10 @@
             quick_tap_ms = <175>;
             flavor = "tap-preferred";
             bindings = <&kp>, <&kp>;
+
+            require-prior-idle-ms = <125>;
+            hold-while-undecided;
+            retro-tap;
         };
     };
 
